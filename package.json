@@ -1,0 +1,17 @@
+{
+  "name": "aktuell_fieldhunter",
+  "version": "1.0.0",
+  "description": "showing basic map + gps + compass + database functionallity in [p5js](https://p5js.org/)",
+  "main": "p5-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^8.2.5",
+    "hull.js": "^1.0.1",
+    "mappa-mundi": "0.0.5",
+    "p5": "^1.2.0"
+  }
+}
